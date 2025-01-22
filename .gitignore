@@ -1,0 +1,9 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+/.apt_generated/
+
+/node_modules/
